@@ -1,5 +1,5 @@
 # Bruteforce. Introduction. Dictionaries and passwords.
-
+<img src=https://authanvil.com/sites/default/files/2016-12/Backlit_keyboard.jpg>
 
 
 What is brute-force?
