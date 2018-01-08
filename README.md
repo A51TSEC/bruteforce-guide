@@ -241,6 +241,6 @@ IPBOX can be a good example of numberic bruteforce.
 
 # Disclamer
 
-Do not use this information to cause hard.
+Do not use this information to cause harm.
 Use this information in educational purpose only.
 Never use this software or algorythms in your country if it is prohibited by low.
