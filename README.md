@@ -234,6 +234,12 @@ https://github.com/superhacker777/hikka webcamera bruteforce hikka ( Hikvision)
 Custom dictionary generator:
 https://github.com/Mebus/cupp
 
+Make OWN custom wordlist with strings you provide:
+https://github.com/agusmakmun/Python-Wordlist-Generator
+
+Dictionary creation with GUI:
+https://github.com/sc0tfree/mentalist
+
 Protection from ssl brutefoce:
 https://jerrygamblin.com/2017/08/24/disallow-million-most-common-passwords/
 
